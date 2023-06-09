@@ -7,3 +7,18 @@ steps:
 * specify the path to csv
 * table name 
 *next and finish
+
+
+-----------------------------------------------------------
+MY SQL USING PYTHON
+
+Install MySQL Driver
+Python needs a MySQL driver to access the MySQL database.
+ we will use the driver "MySQL Connector".
+
+1) import mysql.connector
+2) create connection object
+3) create cursor object
+4) execute query
+
+-----------------------------------------------------------
