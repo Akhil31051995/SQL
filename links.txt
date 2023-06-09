@@ -1,0 +1,9 @@
+https://learnsql.com/blog/import-csv-mysql-database/
+
+importing a csv file to mysql database -- GUI workbench
+steps:
+* create database
+* right click on table -- Table data import wizard
+* specify the path to csv
+* table name 
+*next and finish
